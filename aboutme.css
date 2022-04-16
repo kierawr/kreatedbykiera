@@ -15,9 +15,20 @@ h1 {
 }
 
 h2 {
-  font-family: 'Quicksand', sans-serif;
-  padding: 100px 20px;
+  font-family: 'Fredoka One', cursive;
+  margin-top: 100px;
   word-break: break-word;
+  text-align: center;
+  color: #43548C;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  margin-right: 50px;
+  margin-left: 50px;
+  word-break: break-word;
+  text-align: center;
+  font-size: 20px;
 }
 
 .container {
@@ -88,6 +99,12 @@ nav {
   flex: 1 1 0%;
   justify-content: flex-end;
   margin: 0 -16px;
+}
+
+img {
+  width: 200px;
+  justify-content: center;
+  
 }
 
 .menu a {
